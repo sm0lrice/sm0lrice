@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on creating interesting projects.
 - 📫 How to reach me through my email: bowlof_rice@outlook.com.
 
+- I am currently working on creating a game - dating simulator on a web browser, and application for a farm that is integrating a drone. 
+
 <!---
 sm0lrice/sm0lrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
