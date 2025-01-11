@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sm0lrice
-- 👀 I’m interested in a career in web development, backend, mobile app development, AWS, software engineering, and software development. 
-- 🌱 I’m currently learning AWS, C#, and .NET.
-- 💞️ I’m looking to collaborate on creating interesting projects. You have something in mind? please feel free to contact me. 
-- 📫 How to reach me through my email: rlcaj@icloud.com
+- 👋 Hi, I’m @sm0lrice!
+- 👀 I’m interested in a career in product development or software development.
+- 🤓 Fields of experience and interest in: web development, backend development, mobile app development, AWS, software engineering, and software development. 
+- 🌱 Currently learning AWS, C#, and .NET.
+- 💞️ Welcome to collaborations on creating interesting projects. Do you have something in mind? Please feel free to contact me. 
+- 📫 How to reach me through my email: rlcaj@icloud.com.
 
 
 <!---
